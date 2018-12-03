@@ -117,10 +117,10 @@
 					
 
 <form role="search" method="get" class="search-form" action="http://fizjoterapia.azurewebsites.net/">
-	<label for="search-form-5c058c4ca52c3">
+	<label for="search-form-5c058b3fdcc1f">
 		<span class="screen-reader-text">Szukaj:</span>
 	</label>
-	<input type="search" id="search-form-5c058c4ca52c3" class="search-field" placeholder="Szukaj &hellip;" value="" name="s" />
+	<input type="search" id="search-form-5c058b3fdcc1f" class="search-field" placeholder="Szukaj &hellip;" value="" name="s" />
 	<button type="submit" class="search-submit"><svg class="icon icon-search" aria-hidden="true" role="img"> <use href="#icon-search" xlink:href="#icon-search"></use> </svg><span class="screen-reader-text">Szukaj</span></button>
 </form>
 
