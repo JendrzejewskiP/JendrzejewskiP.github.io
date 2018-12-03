@@ -8,12 +8,11 @@
 
 
 <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
-<title>Przykładowa strona &#8211; Gabinet Fizjoterapii</title>
+<title>Strona nie została znaleziona &#8211; Gabinet Fizjoterapii</title>
 <link rel='dns-prefetch' href='//maps.googleapis.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 
 <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
-
 
 
 <link rel='stylesheet' id='contact-form-7-css'  href='/contents/lib/contact-form-7/includes/css/styles.css?ver=4.9' type='text/css' media='all' />
@@ -24,17 +23,12 @@
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='twentyseventeen-ie8-css'  href='/contents/ui/theme/assets/css/ie8.css?ver=1.0' type='text/css' media='all' />
 <![endif]-->
-<script type='text/javascript' src='inc/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='inc/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='inc/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='inc/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <!--[if lt IE 9]>
 <script type='text/javascript' src='/contents/ui/theme/assets/js/html5.js?ver=3.7.3'></script>
 <![endif]-->
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&#038;libraries=places&#038;ver=4.7.11'></script>
-
-
-
-
-
 
 
 
@@ -62,7 +56,7 @@
 		</style>
 	</head>
 
-<body class="page-template-default page page-id-2 has-header-image page-one-column colors-light">
+<body class="error404 hfeed has-header-image has-sidebar colors-light">
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content">Przejdź do treści</a>
 
@@ -113,19 +107,25 @@
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
-			
-<article id="post-2" class="post-2 page type-page status-publish hentry">
-	<header class="entry-header">
-		<h1 class="entry-title">Przykładowa strona</h1>			</header><!-- .entry-header -->
-	<div class="entry-content">
-		<p>To jest przykładowa strona. Różni się ona od postu na blogu, ponieważ pozostanie ona ciągle w jednym miejscu i pokaże się w panelu nawigacyjnym na twojej stronie (w przypadku większości szablonów). Większość osób zaczyna od strony ‚O mnie’ lub ‚O nas’, która przedstawia ich potencjalnym odwiedzającym stronę. Może to być coś takiego:</p>
-<blockquote><p>Cześć! Jestem kurierem na rowerze za dnia, nocą aktorem amatorem, a to jest mój blog. Mieszkam w Gdańsku, mam wspaniałego psa o imieniu Azor i uwielbiam pi&#241;a coladę. (Oraz to, kiedy łapie mnie deszcz.)</p></blockquote>
-<p>&#8230;lub coś bardziej jak to:</p>
-<blockquote><p>Firma XYZ została założona w 1971 roku i od tamtej pory wytwarza najlepszej jakości wihajster na rynku. Zlokalizowana w Pacanowie zatrudnia ponad 2000 osób i jest powodem samego dobrodziejstwa dla lokalnej społeczności.</p></blockquote>
-<p>Jako nowy użytkowni WordPressa, powinieneś odwiedzić <a href="http://fizjoterapia.azurewebsites.net/wp-admin/">swój panel administracyjny</a>, aby skasować tę stronę i stworzyć nowe, dostosowane do Twoich potrzeb strony. Miłej zabawy!</p>
-	</div><!-- .entry-content -->
-</article><!-- #post-## -->
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">Ups! Nie udało się znaleźć pożądanej strony.</h1>
+				</header><!-- .page-header -->
+				<div class="page-content">
+					<p>Wygląda na to, że niczego nie znaleziono. Spróbuj użyć wyszukiwarki.</p>
 
+					
+
+<form role="search" method="get" class="search-form" action="">
+	<label for="search-form-5c058a4977ee4">
+		<span class="screen-reader-text">Szukaj:</span>
+	</label>
+	<input type="search" id="search-form-5c058a4977ee4" class="search-field" placeholder="Szukaj &hellip;" value="" name="s" />
+	<button type="submit" class="search-submit"><svg class="icon icon-search" aria-hidden="true" role="img"> <use href="#icon-search" xlink:href="#icon-search"></use> </svg><span class="screen-reader-text">Szukaj</span></button>
+</form>
+
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
 		</main><!-- #main -->
 	</div><!-- #primary -->
 </div><!-- .wrap -->
@@ -168,7 +168,7 @@
 </div><!-- #page -->
 <script type='text/javascript'>
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"http:\/\/\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Potwierd\u017a, \u017ce nie jeste\u015b robotem."}}};
+var wpcf7 = {"apiSettings":{"root":"https:\/\/\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Potwierd\u017a, \u017ce nie jeste\u015b robotem."}}};
 /* ]]> */
 </script>
 <script type='text/javascript' src='/contents/lib/contact-form-7/includes/js/scripts.js?ver=4.9'></script>
