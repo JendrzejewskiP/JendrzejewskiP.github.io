@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gabinet Fizjoterapii</title>
+	<atom:link href="http://gdansk-fizjoterapia.pl/feed/" rel="self" type="application/rss+xml" />
+	<link>http://gdansk-fizjoterapia.pl</link>
+	<description>Paweł Jendrzejewski</description>
+	<lastBuildDate>Mon, 05 Feb 2018 16:39:50 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>Witaj, świecie!</title>
+		<link>http://gdansk-fizjoterapia.pl/2017/01/17/witaj-swiecie/</link>
+		<comments>http://gdansk-fizjoterapia.pl/2017/01/17/witaj-swiecie/#comments</comments>
+		<pubDate>Tue, 17 Jan 2017 22:20:04 +0000</pubDate>
+		<dc:creator><![CDATA[pawel jendrzejewski]]></dc:creator>
+				<category><![CDATA[Bez kategorii]]></category>
+
+		<guid isPermaLink="false">http://fizjoterapia.azurewebsites.net/?p=1</guid>
+		<description><![CDATA[Witaj w WordPressie. To jest twój pierwszy wpis. Zmodyfikuj go lub usuń, a następnie rozpocznij pisanie!]]></description>
+				<content:encoded><![CDATA[<p>Witaj w WordPressie. To jest twój pierwszy wpis. Zmodyfikuj go lub usuń, a następnie rozpocznij pisanie!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://gdansk-fizjoterapia.pl/2017/01/17/witaj-swiecie/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
