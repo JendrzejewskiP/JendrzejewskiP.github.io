@@ -8,23 +8,19 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.png
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
-
+    hero_title: Gabinet fizjoterapii
+    hero_description: Paweł Jendrzejewski
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
-
+    phone: +48 792 512 907
+    email: pawel.jendrzejewski@gmail.com
+    address: ul. Miszewskiego 12/13 <br> Gdańsk, 80-239 <br> (budynek Zakładu Doskonalenia Zawodowego) <br> ul. Juliusza Słowackiego 4 <br> Gdańsk, 80-257 <br> (teren klubu Fitness Spójnia)
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+monday_friday: 8:00 – 22:00
+saturday: 8:00 – 17:00
 
 # Testimonials
 testimonials:
