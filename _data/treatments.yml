@@ -1,14 +1,10 @@
 - icon: icon-user-md
   title: Rehabilitacja
-  description: Ortopedyczna i pourazowa  
-  Sportowa  
-  Neurologiczna  
-  Kardiologiczna  
-  Domowa
+  description: Ortopedyczna i pourazowa<br>Sportowa<br>Neurologiczna<br>Kardiologiczna<br>Domowa
 
 - icon: icon-diamond
   title: Fizykoterapia
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description: Magnetoterapia<br>Laseroterapia<br>Elektroterapia
 
 - icon: icon-flask
   title: Masaż
