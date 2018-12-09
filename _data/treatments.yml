@@ -8,16 +8,16 @@
 
 - icon: icon-flask
   title: Masaż
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+  description: Leczniczy<br>Sportowy<br>Relaksacyjny
 
 - icon: icon-globe
   title: Kinesiotaping
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description: Plastrowanie dynamiczne<br>Naklejanie specjalnego rodzaju plastrów na mięśnie między innymi w celu ich rozluźnienia, zmniejszenia bólu czy poprawy stabilizacji.
 
 - icon: icon-ambulance
   title: Opieka sportowa
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description: Pakiet przeznaczony specjalnie dla osób zajmujących się sportem zawodowo jak i amatorsko, chcących zminimalizować ryzyko kontuzji i zmaksymalizować potencjał treningowy organizmu.
 
 - icon: icon-bed
   title: Trening
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description: Indywidualne treningi w warunkach domowych, na sali gimnastycznej lub na świeżym powietrzu, dostosowanych dokładnie do zamierzonego celu.
