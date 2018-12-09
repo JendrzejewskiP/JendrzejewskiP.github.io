@@ -3,7 +3,7 @@ title: Fizjoterapia Gdańsk
 description: "Gabinet fizjoterapii, Gdańsk, trójmiasto. Paweł Jendrzejewski"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
-logo_url: img/logo.png
+logo_url: img/logo.jpg
 
 # Hero
 hero: 
