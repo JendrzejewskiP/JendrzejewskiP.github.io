@@ -7,7 +7,7 @@ logo_url: img/logo.jpg
 
 # Hero
 hero: 
-    hero_img: hero.png
+    hero_img: hero2.png
     hero_title: Gabinet fizjoterapii
     hero_description: Paweł Jendrzejewski
 # Contact form
@@ -39,9 +39,6 @@ instagram: http://instagram.com
 youtube: http://youtube.com
 skype: skype:obaez_design?userinfo
 feed: yes
-
-# Footer
-copyright: © 2015 DentistSmile - All rights reserved
 
 # Build settings
 markdown: kramdown
