@@ -8,7 +8,7 @@ logo_url: img/logo2.png
 # Hero
 hero: 
     hero_img: hero2.png
-    hero_title: Gabinet fizjoterapii
+    hero_title: Fizjoterapia Gdańsk
     hero_description: Paweł Jendrzejewski
 # Contact form
 api_token: # Enter API token here
