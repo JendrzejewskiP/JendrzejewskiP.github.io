@@ -94,6 +94,7 @@
           if (thankYouMessage) {
             thankYouMessage.style.display = "block";
           }
+          location.reload();
           return;
       };
       // url encode form data for sending as post data
