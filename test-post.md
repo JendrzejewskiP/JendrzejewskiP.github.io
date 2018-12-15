@@ -2,7 +2,7 @@
 layout: article
 
 hero: 
-    hero_img: omnie.jpg
+    hero_img: hero.png
     hero_title: Test article title
     hero_description: Test article desc
 ---
