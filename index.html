@@ -17,7 +17,7 @@ layout: default
         
         <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-8 form">
             <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>Umów wizytę</h3>
-            <form action="https://getsimpleform.com/messages?form_api_token={{ site.api_token }}" method="post">
+            <form class="gform" action="https://script.google.com/macros/s/AKfycbzRlWM1D8_qP-G_2n-3W6Zpb8987l5eMZa0-GRMupRotpvdEwM/exec" method="post">
                 <div class="form-field">
                     <input name="name" type="text" placeholder="Imię" required>
                 </div>
@@ -28,7 +28,7 @@ layout: default
                     <input name="email" type="email" placeholder="Email" required>
                 </div>
                 <div class="form-field">
-                    <textarea name="comments" placeholder="Wiadomość" required></textarea>
+                    <textarea name="message" placeholder="Wiadomość" required></textarea>
                 </div>
                 <input type="submit" class="btn btn-default" value="Wyślij">
             </form>
@@ -134,7 +134,7 @@ layout: default
 
 <!-- Start Our team -->
 <div id="team" class="team"> 
-    <h2 class="section-title">Usługi</h2> 
+    <h2 class="section-title">Artykuły</h2> 
     <div id="team-carousel">
     {% for member in site.data.team %}
         <div class="expandable-box">
