@@ -26,7 +26,7 @@
     .expandable-box:hover & {
         transform: translate(0px, -45px) perspective(10000px) rotateX(0);
     }
-    a, span {
+     span {
         position: relative;
         z-index: 100;
         display: inline-block;

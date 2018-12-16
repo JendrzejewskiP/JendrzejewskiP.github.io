@@ -3,9 +3,7 @@
 
     /* Hide menu after click
     ----------------------------------------------*/
-    $('.navbar-nav li a').click(function(event) {
-        $('.in').collapse('hide');
-    });
+  
 
     /* Smooth scroll to section
     ----------------------------------------------*/

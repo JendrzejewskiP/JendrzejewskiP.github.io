@@ -142,19 +142,23 @@ layout: default
 <div id="team" class="team"> 
     <h2 class="section-title">Artykuły</h2> 
     <div id="team-carousel">
-    {% for member in site.data.team %}
+    {% for article in site.data.articles %}
+    <a href="{{ site.baseurl }}/{{ article.link }}">
         <div class="expandable-box">
             <div class="expandable-box-top">
-                <img src="{{ site.baseurl }}/img/{{ member.image }}" alt="{{ member.name }}">
-                <h4>{{ member.name }}</h4>
+
+                <img src="{{ site.baseurl }}/img/{{ article.image }}" alt="{{ article.name }}">
+                
+                <h4>{{ article.name }}</h4>
             </div>
-            <div class="expandable-box-bottom">
-                <a href="mailto:{{ member.email }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.email }}"><svg class="icon icon-envelope"><use xlink:href="#icon-envelope"></use></svg></a>
-                </a>
-                <a href="tel:{{ member.phone }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.phone }}"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a>
-                </a>
-            </div>
+               
+
+                <div class="expandable-box-bottom">
+                    <span><svg class="icon icon-chain"><use xlink:href="#icon-chain"></use></svg></span>
+                </div>
+           
         </div>
+         </a>
     {% endfor %}
     </div>
 </div>

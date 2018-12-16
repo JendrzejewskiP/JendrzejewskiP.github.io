@@ -23,8 +23,8 @@
     }
 
     .expandable-box-bottom {
-        a, span {
-            width: 50%;
+         span {
+            
             &:first-child {
                 background: darken($colorPrimary, 2%);
             }
