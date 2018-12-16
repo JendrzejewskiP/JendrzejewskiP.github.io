@@ -14,6 +14,6 @@ Rehabilitacja ortopedyczna kierowana jest dla osób z problemami układu mięśn
 – artroskopiach,
 – operacjach kręgosłupa,
 – złamaniach, skręceniach, zwichnięciach
-<img src="rehabilitacja_reka.jpg"
+<img src="images/rehabilitacja_reka.jpg"
      alt="Rehabilitacja ortopedyczna i pourazowa"
-     style="float: right;" />
+     style="float: right;display: inline-block;" />
