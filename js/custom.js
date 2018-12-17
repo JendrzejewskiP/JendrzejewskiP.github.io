@@ -3,7 +3,7 @@
 
     /* Hide menu after click
     ----------------------------------------------*/
-  
+
 
     /* Smooth scroll to section
     ----------------------------------------------*/
@@ -104,3 +104,11 @@
           
 })(jQuery);
 
+
+window.onscroll = function() {
+    document.getElementById("navbar-button").classList.add('collapsed');
+    document.getElementById("navbar-button").setAttribute("aria-expanded", "false");
+    document.getElementById("bs-example-navbar-collapse-1").setAttribute("aria-expanded", "false");
+    document.getElementById("bs-example-navbar-collapse-1").classList.remove('in');
+    document.getElementById("bs-example-navbar-collapse-1").setAttribute("style", "height: 1px;");
+}

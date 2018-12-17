@@ -22,7 +22,7 @@ saturday: 8:00 – 17:00
 sunday: 8:00 – 17:00
 # Testimonials
 testimonials:
-    testimonials_img: parallax.jpg
+    testimonials_img: hero.jpg
 
 # Map
 map:
