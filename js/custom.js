@@ -112,3 +112,6 @@ window.onscroll = function() {
     document.getElementById("bs-example-navbar-collapse-1").classList.remove('in');
     document.getElementById("bs-example-navbar-collapse-1").setAttribute("style", "height: 1px;");
 }
+
+const observer = lozad();
+observer.observe();
