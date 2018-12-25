@@ -106,8 +106,8 @@
 
 
 window.onscroll = function() {
-    if(navbar-button !== null){
-            document.getElementById("navbar-button").classList.add('collapsed');
+    var navbar_button = document.getElementById("navbar-button").classList.add('collapsed');
+    if(navbar_button !== null){
     document.getElementById("navbar-button").setAttribute("aria-expanded", "false");
     document.getElementById("bs-example-navbar-collapse-1").setAttribute("aria-expanded", "false");
     document.getElementById("bs-example-navbar-collapse-1").classList.remove('in');
