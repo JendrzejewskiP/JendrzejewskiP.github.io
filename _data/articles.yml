@@ -1,23 +1,9 @@
-- name: Artykuł 1
+- name: Dlaczego bolą nas plecy
   image: omnie.jpg
-  link: artykul1
+  link: plecy
 
-- name: Artykuł 2
-  image: omnie.jpg
-  link: artykul2
+- name: 
+  image: narciarz.jpg
+  link: narty
 
-- name: Artykuł 1
-  image: omnie.jpg
-  link: artykul1
 
-- name: Artykuł 2
-  image: omnie.jpg
-  link: artykul2
-
-- name: Artykuł 1
-  image: omnie.jpg
-  link: artykul1
-
-- name: Artykuł 2
-  image: omnie.jpg
-  link: artykul2

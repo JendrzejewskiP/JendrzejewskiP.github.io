@@ -3,8 +3,8 @@ layout: article
 
 hero: 
     hero_img: omnie.jpg
-    hero_title: Test article title
-    hero_description: Test article desc
+    hero_title: 
+    hero_description: 
 ---
 ## Krótko o tym dlaczego bolą nas plecy.
 
