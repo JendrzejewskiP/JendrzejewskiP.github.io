@@ -17,9 +17,8 @@ contact:
     email: pawel.jendrzejewski@gmail.com
     address: ul. Miszewskiego 12/13 <br> Gdańsk, 80-239 <br> (budynek Zakładu Doskonalenia Zawodowego) <br><br> ul. Juliusza Słowackiego 4 <br> Gdańsk, 80-257 <br> (teren klubu Fitness Spójnia)
 # Opening hours
-monday_friday: 8:00 – 22:00
-saturday: 8:00 – 17:00
-sunday: 8:00 – 17:00
+monday_friday: 8:00 – 20:00
+saturday: 13:00 – 16:00
 # Testimonials
 testimonials:
     testimonials_img: hero.jpg
